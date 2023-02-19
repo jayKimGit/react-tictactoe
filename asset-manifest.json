@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jayKimGit/react-tictactoe/static/css/main.ccfba674.css",
+    "main.js": "/jayKimGit/react-tictactoe/static/js/main.fcab6ec4.js",
+    "static/js/787.b66e7712.chunk.js": "/jayKimGit/react-tictactoe/static/js/787.b66e7712.chunk.js",
+    "index.html": "/jayKimGit/react-tictactoe/index.html",
+    "main.ccfba674.css.map": "/jayKimGit/react-tictactoe/static/css/main.ccfba674.css.map",
+    "main.fcab6ec4.js.map": "/jayKimGit/react-tictactoe/static/js/main.fcab6ec4.js.map",
+    "787.b66e7712.chunk.js.map": "/jayKimGit/react-tictactoe/static/js/787.b66e7712.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccfba674.css",
+    "static/js/main.fcab6ec4.js"
+  ]
+}
